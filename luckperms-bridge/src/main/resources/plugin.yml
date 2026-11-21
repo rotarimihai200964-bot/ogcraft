@@ -1,0 +1,6 @@
+name: OGCraftLuckPermsBridge
+version: 1.0.0
+main: org.ogcraft.luckpermsbridge.OGCraftLuckPermsBridge
+api-version: '1.21'
+depend:
+  - LuckPerms

@@ -1,0 +1,8 @@
+{
+  "name": "ogcraft-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve ."
+  }
+}

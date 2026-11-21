@@ -1,0 +1,21 @@
+# Secrets and local runtime files
+.env
+.panel-password
+.panel-account.json
+*.log
+node-check.*
+panel.out.log
+panel.err.log
+
+# Dependencies and build artifacts
+node_modules/
+botogcraft/bot/node_modules/
+luckperms-bridge/.gradle/
+luckperms-bridge/build/
+**/.gradle/
+**/build/
+npm-repair/
+
+# OS/editor files
+.DS_Store
+Thumbs.db

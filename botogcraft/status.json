@@ -1,0 +1,15 @@
+{
+  "minecraft": {
+    "ip": "mc.ogcraft-rpg.com",
+    "online": true,
+    "players": 1,
+    "maxPlayers": 100,
+    "version": "1.21.11",
+    "motd": null,
+    "checkedAt": "2026-11-21T11:30:39.657Z"
+  },
+  "discord": {
+    "online": null,
+    "note": "Heartbeat Discord este furnizat de panoul Node local."
+  }
+}

@@ -1,0 +1,10 @@
+bind-address: "127.0.0.1"
+port: 8765
+allowed-origin: "*"
+
+# Cheile sunt grupurile primare LuckPerms, iar valorile sunt culori hex.
+rank-colors:
+  default: "#aeb7c4"
+  vip: "#d3b77f"
+  moderator: "#82a9df"
+  admin: "#e28b73"
